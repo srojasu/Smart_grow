@@ -1,0 +1,32 @@
+Requerimientos								
+Momentos								
+1	Usar el lenguaje java para la programacion de la aplicacion y del dispositivo 							
+2	Usar android studio para la creacion de la aplicacion 							
+3	Usar firebase y firestore NoSQL  para realizar el backend de la apliacion 							
+4	Hacer uso de protocolo MQTT atravez del servicio de RabbitMQ 							
+5	Hacer uso de una raspberry pi pico W para realizar las operaciones internas del dispositivo							
+6	Hacer una impresion 3D del contenedor del dispositivo							
+7	Implementar un fotosensor para hacer una medicion del sol 							
+8	Implementar un nivel de agua para realizar una medicion dentro del tanque del dispositivo							
+9	Crear un perfil del ususario de la aplicacion cifrando sus datos personales por medio de encapsulacion							
+10 Crear un grupo de wi-fi direct para establecer una conexion entre el dispositivo y la aplicacion							
+11	Crear una aplicacion que notifique al usuario acerca del estado del dispositivo y la planta							
+12	Enlazar el dispositivo a la red local para poder realizar una conexion con la base de datos							
+13	Establecer una conexion de mensajeria entre el servidor y el dispositivo							
+14	Crear un interfaz grafica dentro de la aplicacion con la cual el usuario puede comunicarse con el dispositivo.							
+15	Diseño de una interfaz intuitiva y atractiva que permita a los usuarios navegar fácilmente por la aplicación.							
+16	Integración de menús para modificar la frecuencia y duración del riego.							
+17	Integración de un sistema de reconocimiento de plantas mediante imágenes.							
+18	El sistema debe tener la API de google lens como sistema de reconocimiento.							
+19	Importar las bases de datos climatologicas y botanicas.							
+20	Implementación de algoritmos para determinar los ciclos de riego y la cantidad de luz requerida por cada tipo de planta.							
+21	Consideración de factores como la especie de la planta, condiciones climáticas locales y estación del año para ajustar las recomendaciones.							
+22	Configuración de notificaciones push para informar a los usuarios sobre el estado del tanque de riego y la cantidad de luz recibida por las plantas.							
+23	Utilización de APIs para acceder a datos climatologicos en tiempo real en tiempo real para notificar o no la luz recibida por la planta dependiendo el clima y la hora.							
+24	Implementar un sistema de gestión de errores y excepciones para manejar posibles fallos en la comunicación entre la aplicación y el dispositivo.							
+25	Informar sobre la hora, el estado climatologico a traves del dispositivo 							
+26	Implementar un sistema que permite el ingreso de varias plantas para un mismo usuario con sus distintos atributos							
+27	Dentro de la aplicacion visualizar distintas recomendaciones basadas en la base de datos botanica							
+28	Crear una checklist de recomendaciones al usuario que puede dar por cumplidas dentro de la aplicacion							
+29	Crear un menu dentro de la aplicacion para la configuracion de la misma en distintos aspectos como lo puede ser la personalizacion de notificaciones							
+30	Crear un menu que permite visualizar un registro de la actividad del dispositivo y de la planta 							
