@@ -9,7 +9,7 @@ Momentos
 7	Implementar un fotosensor para hacer una medicion del sol 							
 8	Implementar un nivel de agua para realizar una medicion dentro del tanque del dispositivo							
 9	Crear un perfil del ususario de la aplicacion cifrando sus datos personales por medio de encapsulacion							
-10 Crear un grupo de wi-fi direct para establecer una conexion entre el dispositivo y la aplicacion							
+10  Crear un grupo de wi-fi direct para establecer una conexion entre el dispositivo y la aplicacion							
 11	Crear una aplicacion que notifique al usuario acerca del estado del dispositivo y la planta							
 12	Enlazar el dispositivo a la red local para poder realizar una conexion con la base de datos							
 13	Establecer una conexion de mensajeria entre el servidor y el dispositivo							
