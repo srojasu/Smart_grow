@@ -1,11 +1,11 @@
 Sprint	Id	Historias de usuario					
-1	1	El cliente quiere ver una estructura básica de la aplicación móvil para establecer sus expectativas					
-	2	El cliente quiere que se escoja la paleta de colores y tipo de letra para definir su identidad empresarial					
-	3	El cliente quiere desarrollar un logo y un eslogan para dar a conocer su marca
+1	1	El cliente quiere ver una estructura básica de la aplicación móvil para establecer sus expectativas.			
+	2	El cliente quiere que se escoja la paleta de colores y tipo de letra para definir su identidad empresarial.			
+	3	El cliente quiere desarrollar un logo y un eslogan para dar a conocer su marca.
 
-2	4	El cliente quiere implementar una base de datos que guarde el nombre cientfico y especificaciones					
-	5	El cliente quiere que la aplicación cuente con un login para identificar a sus clientes					
-	6	El cliente quiere implementar una forma de realizar un registro de la planta del usuario y permitir que modifique sus preferencias
+2	4	El cliente quiere implementar una base de datos que guarde el nombre cientfico y especificaciones.				
+	5	El cliente quiere que la aplicación cuente con un login para identificar a sus clientes.	
+	6	El cliente quiere implementar una forma de realizar un registro de la planta del usuario y permitir que modifique sus preferencias.
 
 3	7						
 	8						
