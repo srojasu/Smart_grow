@@ -12,7 +12,7 @@ public class FirebaseLoginService {
     private final FirebaseAuth firebaseAuth;
 
     public FirebaseLoginService() throws IOException {
-        FileInputStream serviceAccount = new FileInputStream("E:\\Proyectos_java\\proyectodb\\smartgrow-c91e1-firebase-adminsdk-p0rka-d686573cfc.json");
+        FileInputStream serviceAccount = new FileInputStream("C:\\Users\\crist\\Documents\\Unal\\POO\\SDK Firebase\\smartgrow-c91e1-firebase-adminsdk-p0rka-f9d2b907cb.json");
 
         FirebaseOptions options = FirebaseOptions.builder()
                 .setCredentials(GoogleCredentials.fromStream(serviceAccount))
